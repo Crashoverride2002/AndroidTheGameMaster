@@ -3,6 +3,10 @@ The master for collecting data.
 
 With this app you can collect geographical data and pictures on the game it self and these will then be passed to the game server where you can work on them
 
+#2022 Update
+Had to scrap the code due to major changes in Android and also in Xamarin, currently trying to get it up and working again but had to change a ton of code much of what had already work was now changsed and due to resent illness in family been kinda hard to keep every thing up to date.
+Will work with Restfull service on a Joomla most of that has been done, both connect to and starting to update the game as your playing will be dynamic, but had to junk all the Mobile code and start over. Hard to do but that is what happens.
+
 # How does it work ?
 
 A. you go out to the real world tag the loc button and get a geolocation, then you can take pictures as well and write a short description, this gets put into a project for the Game it self, if a game is not created the app will ask you to create a game, a game is an empty shell with location start description splash screen and a set of direction, these can be cryptic, so the gamer needs to have his or her wits about them other wise they might not get the clue or figure out the problem.
